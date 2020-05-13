@@ -2,7 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');
 
 body {
-	background-color: black; 
+	background-color: black;	
+}
+
+.normal-big-text {
+	color: #ecf0f1;
+	font-size: 30px;
 }
 
 .big-text-banner {
@@ -40,4 +45,8 @@ body {
 .list-social-fe:hover {
 	color: #2ecc71;
 	text-decoration: underline;
+}
+
+a {
+	text-decoration: none;
 }
